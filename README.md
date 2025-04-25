@@ -33,7 +33,7 @@ Welcome to my GitHub! 👋 I am a passionate **AI** and **Machine Learning** stu
 ## Contact
 
 Feel free to connect with me!  
-- LinkedIn: [Your LinkedIn Profile Link]
+- LinkedIn: https://www.linkedin.com/in/yasmine-hsayri-3a3826255/
 - Email: hsayriyasmine@gmail.com
 
 ---
