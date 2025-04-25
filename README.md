@@ -1,16 +1,43 @@
-## Hi there 👋
+# Yasmine's GitHub Profile
 
-<!--
-**yasminehsayri/yasminehsayri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 👋 I am a passionate **AI** and **Machine Learning** student with a strong interest in **Software Engineering**. I love exploring new technologies and am always keen to learn and improve my skills.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 **Education**: Currently studying **Artificial Intelligence** and **Machine Learning**.
+- 🔍 **Passions**: **AI**, **Machine Learning**, **Web Development**, **Python**, **.NET**.
+- 💡 **Always Curious**: I enjoy solving problems and continuously learning in the tech field.
+- 🌱 **Current Learning**: Exploring **AI embeddings** and building **Odoo** ERP modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. **Odoo ERP Custom Module for Onboarding/Offboarding**
+   - Designed and developed a custom module in Odoo to manage **onboarding/offboarding**, **CV analysis** with **ATS scoring**, and **employee hardware/access management**.
+   - Tech stack: **Odoo**, **Python**, **PostgreSQL**.
+
+### 2. **Sentiment Classification with NLP**
+   - Developed a **sentiment analysis** system using **Natural Language Processing (NLP)** and **Machine Learning** in Python.
+   - Tech stack: **Python**, **scikit-learn**, **NLTK**.
+## Skills & Technologies
+
+- **Languages**: Python, Java, C#, JavaScript, HTML, CSS
+- **AI & Machine Learning**: TensorFlow, scikit-learn, OpenCV
+- **Tools & Frameworks**: Odoo, Git
+- **Databases**: PostgreSQL, MySQL
+
+
+## Certifications
+
+- **Azure AI Fundamentals**
+- **Python for Data Science and Machine Learning**
+
+## Contact
+
+Feel free to connect with me!  
+- LinkedIn: [Your LinkedIn Profile Link]
+- Email: hsayriyasmine@gmail.com
+
+---
+
+> "Learning is a treasure that will follow its owner everywhere."
+
+Thank you for visiting my GitHub! 🌟
